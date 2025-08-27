@@ -49,4 +49,4 @@ using custom queries directly in Data Studio, which allowed faster integration a
 
 ![image alt](https://github.com/BhavyaMehndiratta26/Credit-Card-Churn-Analysis/blob/3f6261d141c02622bee96f884fdb8a2b8017d210/Churn_Analysis_Dashboard.jpg)
 
-The final dashboard provides a holistic view of credit card customer churn, highlighting overall churn rate, customer distribution across gender, tenure, card categories, and the impact of customer complaints. It enables quick identification of churn patterns and areas of customer dissatisfaction, while allowing management to interact with data and make informed decisions
+The final dashboard provides a holistic view of credit card customer churn, highlighting overall churn rate, customer distribution across gender, tenure, card categories, and the impact of customer complaints. It enables quick identification of churn patterns and areas of customer dissatisfaction, while allowing management to interact with data and make informed decisions.
