@@ -32,7 +32,7 @@ We used Google Cloud Platform (GCP), Big Query (SQL Queries) and Data Studio to 
         5. Churn by Complaint/Contact Frequency (To check if frequent bank contact signals dissatisfaction.)
         6. Churn By Card Type (To check if certain card categories have higher attrition)
 
-👉 Click Here to View all queries: []
+👉 Click Here to View all queries: [https://github.com/BhavyaMehndiratta26/Credit-Card-Churn-Analysis/blob/7e15a2108e9834a76993dde5a69ab21d6b3ca992/churnAnalysisCreditCard.sql]
 
 **4. Building Dashboard in Data Studio:**
 
